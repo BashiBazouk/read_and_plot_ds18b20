@@ -5,9 +5,10 @@ Idea of project is as always: learn python, C++ for arduino and some electronics
 
 ## Sources
 Basic start of this project for me was, but it's in polish:<br>
-[Jak podłączyć i programować termometr cyfrowy DS18B20 w Arduino PL](http://akademia.nettigo.pl/ds18b20/)
-similiar in EN:
-[Interfacing DS18B20 1-Wire Digital Temperature Sensor with Arduino ](https://lastminuteengineers.com/ds18b20-arduino-tutorial/)
+[Jak podłączyć i programować termometr cyfrowy DS18B20 w Arduino PL](http://akademia.nettigo.pl/ds18b20/)<br>
+similiar in EN:<br>
+[Interfacing DS18B20 1-Wire Digital Temperature Sensor with Arduino ](https://lastminuteengineers.com/ds18b20-arduino-tutorial/)<br>
+
 ## How it works?
 There are three parts of this project:
 - Hardware (excluding Arduino)
@@ -31,6 +32,6 @@ TODO:
 
 ## Build
 Assembly diagram:<br>
-![ds18b20_single.png](diagram)<br>
+![diagram](ds18b20_single.png)<br>
 Ready breadboard and arduino:<br>
-![1676229289947.jpg](breadboard)<br>
+![breadboard](1676229289947.jpg)<br>
